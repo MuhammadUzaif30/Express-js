@@ -17,3 +17,14 @@
 20260815	15:28:57	aad9ec9d-8d70-4ec1-b46c-256c63e2732b	GET	undefined	/new-page.html
 20260815	15:28:57	9cbe0293-f9ad-43c1-b859-76c3ab16c788	GET	undefined	/css/style.css
 20260815	15:28:57	6d241640-de97-4b84-8bac-186cf3926a68	GET	undefined	/img/img1.jpg
+20260816	14:22:12	9df0d2f5-7826-461f-beac-1d87d5c37317	GET	undefined	/
+20260816	14:22:12	a9b6298f-716e-40c6-934e-13e2e99473cf	GET	undefined	/css/style.css
+20260816	14:22:13	e42c8529-d859-49e8-8c39-76d8a521f9ca	GET	undefined	/favicon.ico
+20260816	14:22:17	71387e22-95e1-4fe7-b545-1ca82d642fee	GET	undefined	/
+20260816	14:22:17	b5ca4f8f-e03b-42e7-afdc-a31c2bb5ec34	GET	undefined	/css/style.css
+20260816	14:22:25	791a578c-5f7f-4616-aa03-fb0b327ebf31	GET	undefined	/
+20260816	14:22:25	5f507fd3-3273-4ed4-a2fb-cff031a320cc	GET	undefined	/css/style.css
+20260816	14:22:26	4b7f6cb8-a454-4c7c-818e-2153820b9afd	GET	undefined	/
+20260816	14:22:26	0199c8f3-48af-4bde-b03b-bff7f5b6cb30	GET	undefined	/css/style.css
+20260816	14:22:28	f420a371-c19a-40a0-8848-5fde2918a23b	GET	undefined	/
+20260816	14:22:28	6262de76-cace-4346-991d-6c74e41e2c1f	GET	undefined	/css/style.css
